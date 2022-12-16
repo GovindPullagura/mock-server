@@ -1,0 +1,24 @@
+{
+    "asia": [
+        {
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140034391.jpg?k=1009570a201d1b821355beda0e76c7c89532e2d78300b55fb67c43c7f081236b&o=",
+            "heading": "Mugla, Turkey",
+            "price": "₹5,200.55"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140020059.jpg?k=4f4cee44645707c08f91e29af08e4e8d16be725199a6e69cd8dec05a73275179&o=",
+            "heading": "Turfan, China",
+            "price": "₹4,583.53"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140018285.jpg?k=28e28532b80bc745dbabfdaa3a5e562a3a86967a92efdbff349f0dfe15bc836f&o=",
+            "heading": "Mandāwa, India",
+            "price": "₹2,908.78"
+        },
+        {
+            "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140009660.jpg?k=c0098770efe2ca51519b555104cb88ff6f200dfa2f22524da1bcfca5086a2b22&o=",
+            "heading": "Diện Biên Phủ, Vietnam",
+            "price": "₹1,234.03"
+        }
+    ]
+}
