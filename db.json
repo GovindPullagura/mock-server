@@ -1,51 +1,150 @@
 {
     "data": {
-        "asia": [
+        "Hyderabad": [
             {
                 "id": 1,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140034391.jpg?k=1009570a201d1b821355beda0e76c7c89532e2d78300b55fb67c43c7f081236b&o=",
-                "heading": "Mugla, Turkey",
-                "price": "₹5,200.55"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/34775551.webp?k=23c480b4d22edbaa741b57cf5b0a6146d8e556f648adf5aa3c318d662bfed257&o=&s=1",
+                "title": "Taj Banjara",
+                "price": 23960,
+                "rating":8.3
             },
             {
                 "id": 2,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140020059.jpg?k=4f4cee44645707c08f91e29af08e4e8d16be725199a6e69cd8dec05a73275179&o=",
-                "heading": "Turfan, China",
-                "price": "₹4,583.53"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/249864121.webp?k=5e48c749144b140a6debf0880e030b1f94a832c51c5c8e27c4c6854b29df8f5b&o=&s=1",
+                "title": "Radisson Blu Plaza Hotel",
+                "price": 24950,
+                "rating":8.0
             },
             {
                 "id": 3,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140018285.jpg?k=28e28532b80bc745dbabfdaa3a5e562a3a86967a92efdbff349f0dfe15bc836f&o=",
-                "heading": "Mandāwa, India",
-                "price": "₹2,908.78"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/57461655.webp?k=33f99a6178568408a34be1d7670c203594802f05c1f2ce7b2649063add574007&o=&s=1",
+                "title": "Taj Krishna,Hyderabad",
+                "price": 32000,
+                "rating":8.2
             },
             {
                 "id": 4,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140009660.jpg?k=c0098770efe2ca51519b555104cb88ff6f200dfa2f22524da1bcfca5086a2b22&o=",
-                "heading": "Diện Biên Phủ, Vietnam",
-                "price": "₹1,234.03"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/229029009.webp?k=7f2370d27b065d6ee8f3c1a47a38dd6070cd1df9b84c66b77572fb1b2886540a&o=&s=1",
+                "title": "Le Meridien Hyderabad",
+                "price": 23400,
+                "rating":8.0
             },
             {
                 "id": 5,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140015948.jpg?k=4a13e619b690d57e97d5005de84112bed40b185276d14edeb75a2fad5df4cd5b&o=",
-                "heading": "Vigan, Philippines",
-                "text": "Old town · History · Architecture",
-                "price": "₹3,966.52"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/43310573.webp?k=98e6e25dd1ff7b91037283186f72d4e33bace07465f69db960506a15fa60ab1a&o=&s=1",
+                "title": "Vivanta Hyderabad",
+                "price": 29600,
+                "rating":8.4
             },
             {
                 "id": 6,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140031881.jpg?k=3e3d7d683b100ba26d62d313e552bc54babe3582b4743d61aa11500708008db7&o=",
-                "heading": "Vigan, Philippines",
-                "text": "Churches · History · Archeology",
-                "price": "₹3,613.94"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/207494812.webp?k=0b3b8e94f3de771e1ae9bf146f0bcb97b5134813cb1306a8c925386f71c8e215&o=&s=1",
+                "title": "Novotel, Hyderabad",
+                "price": 27200,
+                "rating":7.8
             },
             {
                 "id": 7,
-                "img": "https://cf.bstatic.com/xdata/images/xphoto/800x640/140018285.jpg?k=28e28532b80bc745dbabfdaa3a5e562a3a86967a92efdbff349f0dfe15bc836f&o=",
-                "heading": "Gwalior,India",
-                "text": "Relaxation · Food · Tranquility",
-                "price": "₹3,790.23"
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/131386209.webp?k=c406edf51c08287ea76d0fc5cb98cbd40fb043490ae5b08f8744f5510621d5eb&o=&s=1",
+                "title": "Hyatt, Hyderabad",
+                "price": 28044,
+                "rating":7.6
+            },
+            {
+                "id": 8,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/373047800.webp?k=4bca3378bdf71f228d1fd6200bfefeff16e4484cc0657700430187811fa741da&o=&s=1",
+                "title": "Hotel Akoya",
+                "price": 10636,
+                "rating":8.0
+            },
+            {
+                "id": 9,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/291470265.webp?k=5c8b11596686e0fbd3cacc948a6d0c4d04f951324a22c7495239af0a3a7023ac&o=&s=1",
+                "title": "Courtyard by Marriott",
+                "price": 24395,
+                "rating":8.6
+            },
+            {
+                "id": 10,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/252173896.webp?k=6bec580949d92ba53f13b9e18c8fd883b5bbef480a7dee26bcf880282290b9c6&o=&s=1",
+                "title": "Mercure, Hyderabad",
+                "price": 24820,
+                "rating":7.7
+            }
+        ],
+        "Bangalore": [
+            {
+                "id": 1,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/395351054.webp?k=511023e98b562aaab766d2fa577391cd6e18d38bc42ae25ee5f82cc437ae9313&o=&s=1",
+                "title": "Bloom Hotel",
+                "price": 13680,
+                "rating":8.7
+            },
+            {
+                "id": 2,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/332182661.webp?k=6955437a854366e9403eb4ff4802775d1f3a288151b233a7457d463059db51e7&o=&s=1",
+                "title": "Hotel Chetan International",
+                "price": 5904,
+                "rating":7.1
+            },
+            {
+                "id": 3,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/223496641.webp?k=80081aca5d33e0b1d46eae242d1e36110d6674326e1a0cd9ff7b87dc4e4ac7c1&o=&s=1",
+                "title": "Regenta Inn",
+                "price": 15215,
+                "rating":8.6
+            },
+            {
+                "id": 4,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/48254908.webp?k=48e2c662778d8fc4bd338a74228f454843e39a5dedf77f67dc8b9e70bcd2da1c&o=&s=1",
+                "title": "The Leela Palace, Bengaluru",
+                "price": 48563,
+                "rating":9.0
+            },
+            {
+                "id": 5,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/306422847.webp?k=4630be01919670ade733968dd77faae31853a8df8807622595cc75d7f64a6282&o=&s=1",
+                "title": "Olive Indiranagar - By Embassy Group",
+                "price": 8500,
+                "rating":6.6
+            },
+            {
+                "id": 6,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/234738973.webp?k=695b54bc32f8f15665eef5dc115723e8f06c9d7348beaf5300f41089407fb5f7&o=&s=1",
+                "title": "Novotel, Bengaluru",
+                "price": 24000,
+                "rating":7.7
+            },
+            {
+                "id": 7,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/226666882.webp?k=5cde75effb19d92ff6e5f8387eeca1554dbe89f15d8ef8d561008498b5a23b5a&o=&s=1",
+                "title": "Fountain Tree by TGI",
+                "price": 15477,
+                "rating":7.9
+            },
+            {
+                "id": 8,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/378627637.webp?k=47f0ebefebc24fdcf37d96488d49dd8b389c12d70f99d6eb249cd408e3081723&o=&s=1",
+                "title": "The Sulit Whitefield",
+                "price": 20920,
+                "rating":8.0
+            },
+            {
+                "id": 9,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/319784661.webp?k=26437e10e9bb71568c2d85eebe526cb3bb365f8f7c21af9e49c06c1d82843b5e&o=&s=1",
+                "title": "Vistar Resort & Hotels",
+                "price": 10440,
+                "rating":7.9
+            },
+            {
+                "id": 10,
+                "img": "https://cf.bstatic.com/xdata/images/hotel/square600/295688829.webp?k=e277ece290320ebd3d3271840447b35cbf28bcb8099236fd70753fcd52439b3e&o=&s=1",
+                "title": "Shangri-La, Bengaluru",
+                "price": 42925,
+                "rating":8.8
             }
         ]
     }
 }
+
+		
